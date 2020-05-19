@@ -9,4 +9,5 @@ Scripts will need Python with PyTorch, ODL and ASTRA toolbox
 Note: We can only upload codes without the training data due to size restrictions. 
 Reference to data sources will be made in the respective folder.
 
-- 19 May 2020: First commit, 2D codes for mayo CT data uploaded
+- 19 May 2020: First commit, 2D codes for mayo CT data uploaded. 
+               Additionally added one example for random ellipse phantom
